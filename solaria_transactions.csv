@@ -1,0 +1,501 @@
+date,transaction_id,menu,price,category,quantity,total_price,order_type
+11/23/2024,16792127,Mie Goreng Ayam,32000,Mie,1,32000,Dine-in
+5/5/2024,48951595,Bihun Kuah Ayam,30000,Bihun,2,60000,Online
+12/12/2024,61559717,Jus Alpukat,15000,Minuman,1,15000,Dine-in
+1/17/2024,92594562,Nasi Goreng Spesial,35000,Nasi,1,35000,Online
+4/29/2024,66121095,Jus Alpukat,15000,Minuman,5,75000,Online
+10/14/2024,43322272,Bihun Kuah Ayam,30000,Bihun,5,150000,Dine-in
+4/22/2024,31434525,Es Teh Manis,8000,Minuman,5,40000,Dine-in
+1/4/2024,53947691,Kwetiau Goreng Seafood,36000,Kwetiau,4,144000,Dine-in
+5/22/2024,87535841,Kwetiau Goreng Seafood,36000,Kwetiau,2,72000,Dine-in
+2/22/2024,51971886,Mie Goreng Ayam,32000,Mie,4,128000,Online
+7/2/2024,35479101,Beef Yakiniku,42000,Daging,5,210000,Dine-in
+1/23/2024,31386576,Es Teh Manis,8000,Minuman,5,40000,Online
+7/12/2024,76876068,Mie Goreng Ayam,32000,Mie,5,160000,Dine-in
+11/17/2024,79085198,Air Mineral,7000,Minuman,3,21000,Online
+12/26/2024,72654864,Mie Goreng Ayam,32000,Mie,1,32000,Online
+5/28/2024,76942394,Mie Goreng Ayam,32000,Mie,2,64000,Online
+7/13/2024,51411602,Chicken Teriyaki,40000,Daging,4,160000,Dine-in
+3/24/2024,76755908,Beef Yakiniku,42000,Daging,3,126000,Online
+12/9/2024,13110670,Chicken Teriyaki,40000,Daging,1,40000,Online
+9/30/2024,22086184,Bihun Kuah Ayam,30000,Bihun,2,60000,Dine-in
+7/13/2024,62780072,Chicken Teriyaki,40000,Daging,5,200000,Online
+12/16/2024,77839607,Beef Yakiniku,42000,Daging,1,42000,Online
+1/17/2024,71368457,Beef Yakiniku,42000,Daging,4,168000,Dine-in
+2/3/2024,42310051,Bihun Kuah Ayam,30000,Bihun,5,150000,Dine-in
+4/18/2024,38876195,Es Teh Manis,8000,Minuman,4,32000,Dine-in
+3/14/2024,88295121,Chicken Teriyaki,40000,Daging,2,80000,Online
+10/14/2024,57364777,Jus Alpukat,15000,Minuman,3,45000,Dine-in
+10/25/2024,16530784,Ayam Katsu,38000,Daging,3,114000,Online
+3/11/2024,16783418,Jus Alpukat,15000,Minuman,4,60000,Online
+1/25/2024,47763008,Mie Goreng Ayam,32000,Mie,2,64000,Online
+12/14/2024,76423575,Ayam Katsu,38000,Daging,5,190000,Online
+7/16/2024,90197611,Ayam Katsu,38000,Daging,5,190000,Dine-in
+9/27/2024,97813295,Chicken Teriyaki,40000,Daging,5,200000,Online
+12/14/2024,73161098,Mie Goreng Ayam,32000,Mie,5,160000,Dine-in
+11/24/2024,48352498,Beef Yakiniku,42000,Daging,1,42000,Dine-in
+8/10/2024,82033413,Kwetiau Goreng Seafood,36000,Kwetiau,4,144000,Online
+5/14/2024,11097552,Jus Alpukat,15000,Minuman,2,30000,Online
+11/16/2024,24428014,Chicken Teriyaki,40000,Daging,5,200000,Online
+3/19/2024,67838146,Beef Yakiniku,42000,Daging,2,84000,Online
+11/2/2024,27976443,Beef Yakiniku,42000,Daging,4,168000,Online
+2/27/2024,45496951,Beef Yakiniku,42000,Daging,3,126000,Online
+1/30/2024,59093843,Bihun Kuah Ayam,30000,Bihun,5,150000,Online
+2/13/2024,64123845,Es Teh Manis,8000,Minuman,1,8000,Online
+3/6/2024,59115280,Es Teh Manis,8000,Minuman,5,40000,Online
+5/15/2024,16072331,Jus Alpukat,15000,Minuman,5,75000,Dine-in
+4/18/2024,63765155,Jus Alpukat,15000,Minuman,2,30000,Dine-in
+7/23/2024,16866268,Beef Yakiniku,42000,Daging,4,168000,Dine-in
+3/2/2024,86541906,Bihun Kuah Ayam,30000,Bihun,2,60000,Online
+6/22/2024,85405783,Nasi Goreng Spesial,35000,Nasi,5,175000,Online
+10/28/2024,36126192,Bihun Kuah Ayam,30000,Bihun,1,30000,Online
+12/28/2024,58657117,Nasi Goreng Spesial,35000,Nasi,2,70000,Online
+1/17/2024,84252324,Beef Yakiniku,42000,Daging,1,42000,Online
+5/22/2024,48735464,Es Teh Manis,8000,Minuman,2,16000,Online
+10/19/2024,19869264,Air Mineral,7000,Minuman,4,28000,Online
+8/30/2024,61854861,Ayam Katsu,38000,Daging,2,76000,Online
+2/19/2024,77680031,Ayam Katsu,38000,Daging,3,114000,Dine-in
+7/29/2024,70445541,Es Teh Manis,8000,Minuman,1,8000,Online
+2/1/2024,83800569,Ayam Katsu,38000,Daging,3,114000,Online
+5/7/2024,47543473,Bihun Kuah Ayam,30000,Bihun,2,60000,Dine-in
+3/12/2024,93650068,Ayam Katsu,38000,Daging,2,76000,Dine-in
+8/24/2024,92012822,Bihun Kuah Ayam,30000,Bihun,1,30000,Dine-in
+10/8/2024,25946545,Mie Goreng Ayam,32000,Mie,1,32000,Online
+2/17/2024,27268907,Bihun Kuah Ayam,30000,Bihun,2,60000,Dine-in
+9/5/2024,22976369,Es Teh Manis,8000,Minuman,2,16000,Dine-in
+1/31/2024,62868861,Kwetiau Goreng Seafood,36000,Kwetiau,4,144000,Online
+7/18/2024,60089832,Chicken Teriyaki,40000,Daging,4,160000,Dine-in
+8/4/2024,55511258,Jus Alpukat,15000,Minuman,4,60000,Online
+4/7/2024,84870921,Chicken Teriyaki,40000,Daging,2,80000,Online
+10/23/2024,59070856,Jus Alpukat,15000,Minuman,1,15000,Dine-in
+1/30/2024,29363237,Nasi Goreng Spesial,35000,Nasi,5,175000,Dine-in
+9/14/2024,36717096,Jus Alpukat,15000,Minuman,2,30000,Online
+9/17/2024,90861208,Mie Goreng Ayam,32000,Mie,2,64000,Online
+10/31/2024,78333267,Mie Goreng Ayam,32000,Mie,2,64000,Dine-in
+3/2/2024,63873262,Air Mineral,7000,Minuman,2,14000,Online
+11/13/2024,77119320,Mie Goreng Ayam,32000,Mie,4,128000,Dine-in
+5/13/2024,15402922,Bihun Kuah Ayam,30000,Bihun,3,90000,Online
+5/15/2024,16080513,Ayam Katsu,38000,Daging,2,76000,Dine-in
+8/22/2024,15222944,Beef Yakiniku,42000,Daging,1,42000,Online
+8/22/2024,28392710,Air Mineral,7000,Minuman,5,35000,Online
+2/7/2024,54699966,Jus Alpukat,15000,Minuman,2,30000,Dine-in
+3/8/2024,73584863,Beef Yakiniku,42000,Daging,1,42000,Online
+7/8/2024,79703656,Chicken Teriyaki,40000,Daging,2,80000,Dine-in
+10/5/2024,71335966,Chicken Teriyaki,40000,Daging,5,200000,Online
+12/7/2024,29990477,Jus Alpukat,15000,Minuman,3,45000,Online
+3/9/2024,91370909,Chicken Teriyaki,40000,Daging,1,40000,Online
+10/10/2024,79190008,Kwetiau Goreng Seafood,36000,Kwetiau,3,108000,Dine-in
+11/5/2024,28761086,Bihun Kuah Ayam,30000,Bihun,3,90000,Online
+12/17/2024,54018830,Chicken Teriyaki,40000,Daging,5,200000,Dine-in
+5/8/2024,92284610,Nasi Goreng Spesial,35000,Nasi,1,35000,Dine-in
+5/21/2024,52752377,Nasi Goreng Spesial,35000,Nasi,1,35000,Dine-in
+3/7/2024,31810655,Chicken Teriyaki,40000,Daging,2,80000,Dine-in
+10/9/2024,62741471,Ayam Katsu,38000,Daging,5,190000,Online
+2/27/2024,92745294,Mie Goreng Ayam,32000,Mie,2,64000,Online
+7/8/2024,50162553,Air Mineral,7000,Minuman,5,35000,Online
+8/8/2024,89688374,Kwetiau Goreng Seafood,36000,Kwetiau,1,36000,Dine-in
+7/5/2024,55147280,Nasi Goreng Spesial,35000,Nasi,3,105000,Online
+12/15/2024,78090664,Bihun Kuah Ayam,30000,Bihun,1,30000,Dine-in
+10/13/2024,78412668,Ayam Katsu,38000,Daging,5,190000,Online
+5/1/2024,81449442,Kwetiau Goreng Seafood,36000,Kwetiau,2,72000,Dine-in
+1/13/2024,75746104,Kwetiau Goreng Seafood,36000,Kwetiau,3,108000,Dine-in
+12/8/2024,85554415,Bihun Kuah Ayam,30000,Bihun,3,90000,Online
+12/25/2024,50237208,Mie Goreng Ayam,32000,Mie,4,128000,Online
+8/28/2024,73739005,Bihun Kuah Ayam,30000,Bihun,2,60000,Dine-in
+6/28/2024,12232974,Chicken Teriyaki,40000,Daging,2,80000,Online
+1/13/2024,59440148,Bihun Kuah Ayam,30000,Bihun,4,120000,Dine-in
+5/22/2024,54458225,Mie Goreng Ayam,32000,Mie,3,96000,Dine-in
+11/24/2024,24710878,Jus Alpukat,15000,Minuman,4,60000,Dine-in
+1/15/2024,65907088,Mie Goreng Ayam,32000,Mie,3,96000,Online
+10/24/2024,88343175,Chicken Teriyaki,40000,Daging,1,40000,Online
+11/1/2024,51295819,Ayam Katsu,38000,Daging,3,114000,Dine-in
+8/11/2024,94457912,Air Mineral,7000,Minuman,5,35000,Online
+7/16/2024,13576520,Air Mineral,7000,Minuman,2,14000,Dine-in
+1/23/2024,90115852,Ayam Katsu,38000,Daging,1,38000,Online
+7/5/2024,73698420,Ayam Katsu,38000,Daging,1,38000,Dine-in
+11/15/2024,45638891,Beef Yakiniku,42000,Daging,1,42000,Dine-in
+9/16/2024,97991930,Chicken Teriyaki,40000,Daging,4,160000,Dine-in
+7/25/2024,87641510,Chicken Teriyaki,40000,Daging,5,200000,Online
+4/8/2024,87528776,Ayam Katsu,38000,Daging,4,152000,Online
+11/11/2024,40540334,Air Mineral,7000,Minuman,3,21000,Dine-in
+10/7/2024,16892773,Nasi Goreng Spesial,35000,Nasi,3,105000,Dine-in
+4/17/2024,88319168,Ayam Katsu,38000,Daging,5,190000,Dine-in
+8/26/2024,74484744,Es Teh Manis,8000,Minuman,4,32000,Online
+9/18/2024,32885741,Es Teh Manis,8000,Minuman,2,16000,Online
+5/25/2024,80361272,Jus Alpukat,15000,Minuman,5,75000,Dine-in
+2/17/2024,94426338,Bihun Kuah Ayam,30000,Bihun,3,90000,Online
+4/11/2024,93179531,Kwetiau Goreng Seafood,36000,Kwetiau,1,36000,Online
+5/5/2024,61028283,Es Teh Manis,8000,Minuman,5,40000,Online
+8/21/2024,29834119,Ayam Katsu,38000,Daging,5,190000,Online
+12/22/2024,42507072,Ayam Katsu,38000,Daging,4,152000,Dine-in
+5/4/2024,14237322,Kwetiau Goreng Seafood,36000,Kwetiau,1,36000,Online
+8/5/2024,86849080,Bihun Kuah Ayam,30000,Bihun,2,60000,Dine-in
+1/26/2024,24749927,Jus Alpukat,15000,Minuman,2,30000,Online
+8/21/2024,35606639,Kwetiau Goreng Seafood,36000,Kwetiau,4,144000,Dine-in
+8/14/2024,12541730,Air Mineral,7000,Minuman,5,35000,Dine-in
+10/7/2024,69195194,Es Teh Manis,8000,Minuman,2,16000,Dine-in
+8/18/2024,52103092,Chicken Teriyaki,40000,Daging,2,80000,Dine-in
+9/23/2024,66207740,Es Teh Manis,8000,Minuman,2,16000,Dine-in
+8/13/2024,30324759,Mie Goreng Ayam,32000,Mie,3,96000,Online
+5/19/2024,65426567,Beef Yakiniku,42000,Daging,3,126000,Online
+3/11/2024,37365878,Kwetiau Goreng Seafood,36000,Kwetiau,2,72000,Dine-in
+12/21/2024,65079923,Kwetiau Goreng Seafood,36000,Kwetiau,2,72000,Online
+7/31/2024,77353073,Ayam Katsu,38000,Daging,3,114000,Dine-in
+7/31/2024,92071195,Nasi Goreng Spesial,35000,Nasi,2,70000,Dine-in
+7/18/2024,73297813,Air Mineral,7000,Minuman,1,7000,Dine-in
+9/1/2024,18359252,Nasi Goreng Spesial,35000,Nasi,3,105000,Dine-in
+7/18/2024,28533117,Ayam Katsu,38000,Daging,5,190000,Online
+9/6/2024,79616482,Bihun Kuah Ayam,30000,Bihun,3,90000,Dine-in
+9/5/2024,37828932,Nasi Goreng Spesial,35000,Nasi,4,140000,Dine-in
+12/8/2024,85280948,Ayam Katsu,38000,Daging,2,76000,Dine-in
+3/6/2024,53627409,Air Mineral,7000,Minuman,5,35000,Online
+7/20/2024,98882576,Air Mineral,7000,Minuman,5,35000,Online
+2/12/2024,74205866,Ayam Katsu,38000,Daging,2,76000,Dine-in
+4/3/2024,80528349,Nasi Goreng Spesial,35000,Nasi,3,105000,Dine-in
+6/16/2024,60576565,Bihun Kuah Ayam,30000,Bihun,4,120000,Dine-in
+6/21/2024,52111160,Ayam Katsu,38000,Daging,3,114000,Dine-in
+5/9/2024,33244151,Mie Goreng Ayam,32000,Mie,4,128000,Online
+10/3/2024,71694994,Nasi Goreng Spesial,35000,Nasi,3,105000,Online
+11/28/2024,81555103,Mie Goreng Ayam,32000,Mie,1,32000,Online
+5/6/2024,55946354,Bihun Kuah Ayam,30000,Bihun,1,30000,Online
+5/2/2024,83319550,Kwetiau Goreng Seafood,36000,Kwetiau,4,144000,Online
+10/15/2024,57551594,Bihun Kuah Ayam,30000,Bihun,4,120000,Dine-in
+7/7/2024,96343485,Kwetiau Goreng Seafood,36000,Kwetiau,5,180000,Online
+3/24/2024,45482091,Chicken Teriyaki,40000,Daging,1,40000,Online
+6/8/2024,91883092,Air Mineral,7000,Minuman,4,28000,Dine-in
+4/11/2024,74985553,Mie Goreng Ayam,32000,Mie,5,160000,Online
+2/22/2024,35805259,Chicken Teriyaki,40000,Daging,5,200000,Online
+10/16/2024,43087238,Nasi Goreng Spesial,35000,Nasi,3,105000,Dine-in
+12/4/2024,47447604,Beef Yakiniku,42000,Daging,1,42000,Dine-in
+1/7/2024,84905122,Ayam Katsu,38000,Daging,4,152000,Online
+8/9/2024,50063879,Beef Yakiniku,42000,Daging,4,168000,Online
+8/10/2024,40181142,Kwetiau Goreng Seafood,36000,Kwetiau,5,180000,Dine-in
+11/11/2024,49945150,Jus Alpukat,15000,Minuman,4,60000,Dine-in
+8/11/2024,48789478,Air Mineral,7000,Minuman,3,21000,Dine-in
+5/5/2024,37820354,Mie Goreng Ayam,32000,Mie,3,96000,Dine-in
+5/4/2024,75632882,Es Teh Manis,8000,Minuman,5,40000,Dine-in
+6/21/2024,52552488,Nasi Goreng Spesial,35000,Nasi,4,140000,Dine-in
+4/3/2024,74398125,Es Teh Manis,8000,Minuman,2,16000,Dine-in
+5/12/2024,56815569,Beef Yakiniku,42000,Daging,3,126000,Dine-in
+10/11/2024,85227370,Nasi Goreng Spesial,35000,Nasi,5,175000,Online
+2/13/2024,46702849,Bihun Kuah Ayam,30000,Bihun,4,120000,Dine-in
+10/11/2024,48626436,Bihun Kuah Ayam,30000,Bihun,4,120000,Dine-in
+8/17/2024,26357665,Nasi Goreng Spesial,35000,Nasi,1,35000,Dine-in
+4/23/2024,86970753,Ayam Katsu,38000,Daging,2,76000,Dine-in
+12/5/2024,82905845,Air Mineral,7000,Minuman,3,21000,Dine-in
+10/10/2024,60961690,Jus Alpukat,15000,Minuman,3,45000,Dine-in
+10/8/2024,62953249,Beef Yakiniku,42000,Daging,3,126000,Dine-in
+5/18/2024,56323191,Chicken Teriyaki,40000,Daging,3,120000,Online
+3/2/2024,29659692,Bihun Kuah Ayam,30000,Bihun,3,90000,Online
+10/1/2024,48983895,Kwetiau Goreng Seafood,36000,Kwetiau,2,72000,Online
+9/4/2024,15646068,Chicken Teriyaki,40000,Daging,5,200000,Dine-in
+2/21/2024,48605090,Bihun Kuah Ayam,30000,Bihun,3,90000,Online
+7/3/2024,20607151,Kwetiau Goreng Seafood,36000,Kwetiau,3,108000,Online
+12/28/2024,56488123,Jus Alpukat,15000,Minuman,2,30000,Dine-in
+1/24/2024,69374716,Nasi Goreng Spesial,35000,Nasi,5,175000,Dine-in
+12/23/2024,98043078,Kwetiau Goreng Seafood,36000,Kwetiau,4,144000,Online
+1/7/2024,44419327,Air Mineral,7000,Minuman,3,21000,Dine-in
+9/2/2024,74300930,Es Teh Manis,8000,Minuman,3,24000,Online
+1/27/2024,38720823,Chicken Teriyaki,40000,Daging,4,160000,Online
+2/3/2024,37121108,Ayam Katsu,38000,Daging,4,152000,Online
+10/22/2024,82286705,Nasi Goreng Spesial,35000,Nasi,2,70000,Online
+10/15/2024,46390817,Chicken Teriyaki,40000,Daging,1,40000,Online
+3/1/2024,85432781,Jus Alpukat,15000,Minuman,4,60000,Online
+9/24/2024,46456416,Ayam Katsu,38000,Daging,4,152000,Dine-in
+6/1/2024,28424464,Air Mineral,7000,Minuman,4,28000,Dine-in
+10/18/2024,24660143,Air Mineral,7000,Minuman,1,7000,Online
+4/16/2024,92634772,Bihun Kuah Ayam,30000,Bihun,3,90000,Online
+3/21/2024,88763056,Bihun Kuah Ayam,30000,Bihun,2,60000,Online
+3/21/2024,42115895,Nasi Goreng Spesial,35000,Nasi,4,140000,Dine-in
+12/18/2024,42542167,Air Mineral,7000,Minuman,4,28000,Dine-in
+1/17/2024,16813620,Bihun Kuah Ayam,30000,Bihun,3,90000,Dine-in
+12/25/2024,99903592,Es Teh Manis,8000,Minuman,1,8000,Online
+5/15/2024,81275182,Air Mineral,7000,Minuman,2,14000,Dine-in
+2/28/2024,40289135,Jus Alpukat,15000,Minuman,2,30000,Online
+5/16/2024,95623471,Kwetiau Goreng Seafood,36000,Kwetiau,1,36000,Online
+3/25/2024,41250794,Chicken Teriyaki,40000,Daging,5,200000,Dine-in
+8/12/2024,17045237,Mie Goreng Ayam,32000,Mie,4,128000,Dine-in
+12/24/2024,23448342,Ayam Katsu,38000,Daging,3,114000,Dine-in
+8/12/2024,65472370,Mie Goreng Ayam,32000,Mie,5,160000,Online
+8/9/2024,54331259,Beef Yakiniku,42000,Daging,5,210000,Dine-in
+1/14/2024,73404979,Mie Goreng Ayam,32000,Mie,2,64000,Online
+12/10/2024,23494908,Chicken Teriyaki,40000,Daging,5,200000,Online
+3/30/2024,28450513,Es Teh Manis,8000,Minuman,5,40000,Dine-in
+5/22/2024,10695441,Kwetiau Goreng Seafood,36000,Kwetiau,5,180000,Dine-in
+11/21/2024,83867070,Es Teh Manis,8000,Minuman,1,8000,Dine-in
+6/27/2024,31198492,Ayam Katsu,38000,Daging,3,114000,Dine-in
+12/9/2024,64614193,Mie Goreng Ayam,32000,Mie,2,64000,Dine-in
+7/29/2024,97629787,Es Teh Manis,8000,Minuman,3,24000,Dine-in
+10/8/2024,73847325,Nasi Goreng Spesial,35000,Nasi,4,140000,Online
+6/10/2024,74082055,Chicken Teriyaki,40000,Daging,3,120000,Online
+7/25/2024,97313825,Jus Alpukat,15000,Minuman,1,15000,Dine-in
+7/30/2024,36770527,Nasi Goreng Spesial,35000,Nasi,2,70000,Dine-in
+11/14/2024,48553376,Es Teh Manis,8000,Minuman,4,32000,Online
+4/14/2024,53106399,Chicken Teriyaki,40000,Daging,5,200000,Online
+5/27/2024,48307798,Es Teh Manis,8000,Minuman,4,32000,Online
+1/15/2024,96690951,Air Mineral,7000,Minuman,2,14000,Online
+6/8/2024,17940667,Jus Alpukat,15000,Minuman,1,15000,Dine-in
+2/17/2024,22007214,Bihun Kuah Ayam,30000,Bihun,1,30000,Dine-in
+3/1/2024,97550053,Kwetiau Goreng Seafood,36000,Kwetiau,4,144000,Dine-in
+9/17/2024,87058874,Chicken Teriyaki,40000,Daging,4,160000,Dine-in
+8/29/2024,41168067,Bihun Kuah Ayam,30000,Bihun,4,120000,Online
+7/15/2024,81826922,Bihun Kuah Ayam,30000,Bihun,5,150000,Online
+2/5/2024,15006085,Chicken Teriyaki,40000,Daging,4,160000,Dine-in
+9/16/2024,33496796,Chicken Teriyaki,40000,Daging,1,40000,Dine-in
+6/1/2024,66087572,Air Mineral,7000,Minuman,5,35000,Dine-in
+3/17/2024,33593960,Es Teh Manis,8000,Minuman,5,40000,Dine-in
+6/25/2024,14877451,Beef Yakiniku,42000,Daging,5,210000,Dine-in
+8/21/2024,63283709,Beef Yakiniku,42000,Daging,2,84000,Online
+10/19/2024,76489301,Ayam Katsu,38000,Daging,2,76000,Dine-in
+1/23/2024,35006323,Beef Yakiniku,42000,Daging,4,168000,Dine-in
+7/16/2024,48851599,Kwetiau Goreng Seafood,36000,Kwetiau,4,144000,Online
+3/5/2024,15028625,Jus Alpukat,15000,Minuman,5,75000,Dine-in
+2/21/2024,11243818,Es Teh Manis,8000,Minuman,1,8000,Dine-in
+1/8/2024,50049524,Kwetiau Goreng Seafood,36000,Kwetiau,4,144000,Online
+2/8/2024,86230551,Es Teh Manis,8000,Minuman,3,24000,Dine-in
+11/15/2024,90904160,Ayam Katsu,38000,Daging,1,38000,Dine-in
+12/11/2024,24401654,Jus Alpukat,15000,Minuman,4,60000,Dine-in
+11/16/2024,54968591,Es Teh Manis,8000,Minuman,5,40000,Online
+11/12/2024,48193218,Mie Goreng Ayam,32000,Mie,2,64000,Dine-in
+4/26/2024,70981700,Mie Goreng Ayam,32000,Mie,4,128000,Online
+11/20/2024,96075494,Mie Goreng Ayam,32000,Mie,4,128000,Online
+12/21/2024,82920556,Chicken Teriyaki,40000,Daging,1,40000,Online
+6/15/2024,80372842,Nasi Goreng Spesial,35000,Nasi,3,105000,Dine-in
+7/10/2024,76291802,Ayam Katsu,38000,Daging,2,76000,Online
+9/28/2024,28012011,Ayam Katsu,38000,Daging,5,190000,Online
+3/28/2024,77674279,Kwetiau Goreng Seafood,36000,Kwetiau,1,36000,Dine-in
+11/13/2024,72816684,Bihun Kuah Ayam,30000,Bihun,4,120000,Online
+4/28/2024,46619573,Es Teh Manis,8000,Minuman,3,24000,Dine-in
+5/10/2024,35878707,Nasi Goreng Spesial,35000,Nasi,4,140000,Dine-in
+12/12/2024,25119192,Jus Alpukat,15000,Minuman,2,30000,Online
+8/14/2024,54383668,Beef Yakiniku,42000,Daging,5,210000,Dine-in
+11/23/2024,31809610,Ayam Katsu,38000,Daging,3,114000,Dine-in
+6/3/2024,71594457,Bihun Kuah Ayam,30000,Bihun,4,120000,Dine-in
+2/24/2024,97011385,Bihun Kuah Ayam,30000,Bihun,4,120000,Dine-in
+10/21/2024,44529507,Chicken Teriyaki,40000,Daging,3,120000,Online
+12/3/2024,34991216,Ayam Katsu,38000,Daging,3,114000,Online
+10/16/2024,11890348,Nasi Goreng Spesial,35000,Nasi,5,175000,Dine-in
+5/26/2024,55246430,Bihun Kuah Ayam,30000,Bihun,5,150000,Dine-in
+4/22/2024,49597485,Bihun Kuah Ayam,30000,Bihun,5,150000,Dine-in
+12/13/2024,86206305,Kwetiau Goreng Seafood,36000,Kwetiau,1,36000,Online
+6/7/2024,35925669,Es Teh Manis,8000,Minuman,1,8000,Dine-in
+3/8/2024,33554528,Mie Goreng Ayam,32000,Mie,3,96000,Dine-in
+7/31/2024,92000924,Kwetiau Goreng Seafood,36000,Kwetiau,2,72000,Online
+10/3/2024,95728324,Beef Yakiniku,42000,Daging,5,210000,Dine-in
+3/25/2024,64423996,Chicken Teriyaki,40000,Daging,4,160000,Dine-in
+6/22/2024,67405358,Mie Goreng Ayam,32000,Mie,4,128000,Online
+3/13/2024,79159799,Bihun Kuah Ayam,30000,Bihun,4,120000,Dine-in
+2/16/2024,54013571,Ayam Katsu,38000,Daging,1,38000,Dine-in
+10/1/2024,21641746,Mie Goreng Ayam,32000,Mie,4,128000,Dine-in
+12/10/2024,63798927,Chicken Teriyaki,40000,Daging,5,200000,Dine-in
+11/22/2024,99826000,Beef Yakiniku,42000,Daging,1,42000,Online
+8/29/2024,22802372,Nasi Goreng Spesial,35000,Nasi,5,175000,Dine-in
+11/8/2024,34800912,Bihun Kuah Ayam,30000,Bihun,1,30000,Dine-in
+12/24/2024,28872606,Chicken Teriyaki,40000,Daging,4,160000,Online
+3/12/2024,74082804,Nasi Goreng Spesial,35000,Nasi,1,35000,Dine-in
+9/9/2024,53433080,Mie Goreng Ayam,32000,Mie,1,32000,Online
+10/2/2024,43292316,Kwetiau Goreng Seafood,36000,Kwetiau,4,144000,Dine-in
+7/8/2024,10916723,Jus Alpukat,15000,Minuman,4,60000,Online
+7/31/2024,45002007,Mie Goreng Ayam,32000,Mie,4,128000,Dine-in
+5/23/2024,61482483,Nasi Goreng Spesial,35000,Nasi,3,105000,Online
+8/15/2024,41611127,Es Teh Manis,8000,Minuman,2,16000,Dine-in
+2/20/2024,69959826,Beef Yakiniku,42000,Daging,5,210000,Dine-in
+2/1/2024,45835371,Ayam Katsu,38000,Daging,3,114000,Online
+3/3/2024,54241559,Es Teh Manis,8000,Minuman,1,8000,Online
+11/24/2024,50526484,Air Mineral,7000,Minuman,1,7000,Online
+6/19/2024,88176558,Bihun Kuah Ayam,30000,Bihun,2,60000,Online
+2/5/2024,86890296,Jus Alpukat,15000,Minuman,2,30000,Online
+4/29/2024,11534878,Beef Yakiniku,42000,Daging,2,84000,Online
+5/21/2024,45105069,Kwetiau Goreng Seafood,36000,Kwetiau,2,72000,Dine-in
+3/30/2024,97735896,Mie Goreng Ayam,32000,Mie,1,32000,Online
+1/8/2024,58258264,Beef Yakiniku,42000,Daging,2,84000,Dine-in
+1/9/2024,41715995,Kwetiau Goreng Seafood,36000,Kwetiau,3,108000,Online
+3/5/2024,18338186,Ayam Katsu,38000,Daging,5,190000,Online
+2/2/2024,99628735,Es Teh Manis,8000,Minuman,4,32000,Dine-in
+9/19/2024,25867870,Air Mineral,7000,Minuman,1,7000,Dine-in
+9/14/2024,72464258,Bihun Kuah Ayam,30000,Bihun,5,150000,Online
+12/3/2024,51178850,Jus Alpukat,15000,Minuman,3,45000,Dine-in
+11/25/2024,31436829,Nasi Goreng Spesial,35000,Nasi,1,35000,Dine-in
+7/24/2024,64414096,Ayam Katsu,38000,Daging,1,38000,Dine-in
+12/30/2024,77447155,Es Teh Manis,8000,Minuman,1,8000,Online
+6/13/2024,51738753,Air Mineral,7000,Minuman,2,14000,Online
+3/5/2024,25759274,Chicken Teriyaki,40000,Daging,5,200000,Dine-in
+7/14/2024,95726382,Air Mineral,7000,Minuman,5,35000,Dine-in
+8/20/2024,49599276,Jus Alpukat,15000,Minuman,5,75000,Dine-in
+2/20/2024,59330907,Mie Goreng Ayam,32000,Mie,5,160000,Online
+8/8/2024,92493631,Es Teh Manis,8000,Minuman,2,16000,Dine-in
+6/22/2024,39641883,Es Teh Manis,8000,Minuman,4,32000,Dine-in
+2/18/2024,39410942,Beef Yakiniku,42000,Daging,4,168000,Dine-in
+12/6/2024,27927298,Chicken Teriyaki,40000,Daging,3,120000,Online
+12/17/2024,74180488,Es Teh Manis,8000,Minuman,1,8000,Online
+2/13/2024,30560218,Mie Goreng Ayam,32000,Mie,4,128000,Online
+7/9/2024,71066203,Kwetiau Goreng Seafood,36000,Kwetiau,5,180000,Online
+10/27/2024,91300905,Jus Alpukat,15000,Minuman,5,75000,Dine-in
+12/9/2024,60147077,Mie Goreng Ayam,32000,Mie,4,128000,Dine-in
+12/6/2024,65813853,Ayam Katsu,38000,Daging,1,38000,Dine-in
+11/3/2024,83717007,Chicken Teriyaki,40000,Daging,3,120000,Online
+10/22/2024,73193474,Jus Alpukat,15000,Minuman,2,30000,Online
+12/2/2024,82144402,Es Teh Manis,8000,Minuman,2,16000,Online
+6/28/2024,99133246,Jus Alpukat,15000,Minuman,3,45000,Online
+5/22/2024,39314711,Air Mineral,7000,Minuman,2,14000,Dine-in
+10/14/2024,43214247,Air Mineral,7000,Minuman,5,35000,Online
+11/7/2024,89968863,Chicken Teriyaki,40000,Daging,1,40000,Online
+5/19/2024,20988446,Chicken Teriyaki,40000,Daging,3,120000,Dine-in
+1/4/2024,80532309,Kwetiau Goreng Seafood,36000,Kwetiau,2,72000,Dine-in
+2/5/2024,69961498,Kwetiau Goreng Seafood,36000,Kwetiau,1,36000,Online
+9/28/2024,80890196,Bihun Kuah Ayam,30000,Bihun,4,120000,Dine-in
+8/20/2024,58557943,Beef Yakiniku,42000,Daging,2,84000,Dine-in
+6/8/2024,20482769,Beef Yakiniku,42000,Daging,5,210000,Online
+1/27/2024,85721444,Kwetiau Goreng Seafood,36000,Kwetiau,2,72000,Online
+12/11/2024,25060409,Mie Goreng Ayam,32000,Mie,3,96000,Dine-in
+12/4/2024,18289024,Ayam Katsu,38000,Daging,4,152000,Dine-in
+7/31/2024,83504237,Chicken Teriyaki,40000,Daging,2,80000,Online
+6/25/2024,77845324,Ayam Katsu,38000,Daging,1,38000,Dine-in
+12/13/2024,37133023,Air Mineral,7000,Minuman,4,28000,Dine-in
+1/24/2024,86866717,Bihun Kuah Ayam,30000,Bihun,4,120000,Online
+1/4/2024,82029307,Bihun Kuah Ayam,30000,Bihun,3,90000,Online
+3/11/2024,30112846,Chicken Teriyaki,40000,Daging,3,120000,Dine-in
+3/2/2024,32083803,Nasi Goreng Spesial,35000,Nasi,4,140000,Dine-in
+3/30/2024,54039203,Kwetiau Goreng Seafood,36000,Kwetiau,4,144000,Online
+9/13/2024,79839059,Jus Alpukat,15000,Minuman,3,45000,Online
+7/22/2024,69302835,Nasi Goreng Spesial,35000,Nasi,4,140000,Online
+8/23/2024,25601471,Mie Goreng Ayam,32000,Mie,3,96000,Dine-in
+10/20/2024,37568520,Ayam Katsu,38000,Daging,4,152000,Dine-in
+2/28/2024,88268756,Ayam Katsu,38000,Daging,1,38000,Dine-in
+3/28/2024,75609379,Air Mineral,7000,Minuman,4,28000,Dine-in
+2/15/2024,22205980,Ayam Katsu,38000,Daging,1,38000,Online
+8/11/2024,78501420,Air Mineral,7000,Minuman,4,28000,Online
+7/21/2024,69791674,Chicken Teriyaki,40000,Daging,3,120000,Online
+6/19/2024,17467311,Kwetiau Goreng Seafood,36000,Kwetiau,1,36000,Online
+9/28/2024,70858653,Jus Alpukat,15000,Minuman,2,30000,Dine-in
+6/28/2024,27709269,Kwetiau Goreng Seafood,36000,Kwetiau,2,72000,Online
+3/15/2024,78886959,Chicken Teriyaki,40000,Daging,2,80000,Online
+11/4/2024,65757342,Kwetiau Goreng Seafood,36000,Kwetiau,1,36000,Online
+11/17/2024,71310453,Es Teh Manis,8000,Minuman,4,32000,Dine-in
+12/14/2024,85686878,Air Mineral,7000,Minuman,5,35000,Dine-in
+11/17/2024,17749299,Beef Yakiniku,42000,Daging,2,84000,Dine-in
+2/4/2024,85000490,Es Teh Manis,8000,Minuman,4,32000,Dine-in
+5/20/2024,72059365,Air Mineral,7000,Minuman,1,7000,Dine-in
+9/16/2024,51361818,Mie Goreng Ayam,32000,Mie,3,96000,Dine-in
+8/19/2024,12921981,Nasi Goreng Spesial,35000,Nasi,1,35000,Dine-in
+5/26/2024,63143336,Mie Goreng Ayam,32000,Mie,1,32000,Dine-in
+8/24/2024,44152669,Air Mineral,7000,Minuman,5,35000,Online
+8/18/2024,10404729,Air Mineral,7000,Minuman,2,14000,Dine-in
+11/5/2024,39246218,Es Teh Manis,8000,Minuman,5,40000,Online
+2/1/2024,87619624,Es Teh Manis,8000,Minuman,1,8000,Dine-in
+12/31/2024,19801857,Mie Goreng Ayam,32000,Mie,5,160000,Online
+1/21/2024,16078694,Bihun Kuah Ayam,30000,Bihun,4,120000,Dine-in
+9/25/2024,66867700,Jus Alpukat,15000,Minuman,5,75000,Online
+7/5/2024,56241881,Beef Yakiniku,42000,Daging,3,126000,Dine-in
+7/28/2024,18557710,Beef Yakiniku,42000,Daging,5,210000,Online
+11/19/2024,82633735,Beef Yakiniku,42000,Daging,1,42000,Dine-in
+2/18/2024,18087373,Jus Alpukat,15000,Minuman,4,60000,Dine-in
+5/9/2024,19263592,Air Mineral,7000,Minuman,2,14000,Dine-in
+2/11/2024,73360324,Air Mineral,7000,Minuman,2,14000,Dine-in
+6/7/2024,14259382,Ayam Katsu,38000,Daging,2,76000,Online
+6/7/2024,48532662,Jus Alpukat,15000,Minuman,4,60000,Dine-in
+3/6/2024,64877191,Jus Alpukat,15000,Minuman,1,15000,Dine-in
+9/17/2024,34156684,Beef Yakiniku,42000,Daging,1,42000,Dine-in
+6/7/2024,28176954,Kwetiau Goreng Seafood,36000,Kwetiau,2,72000,Dine-in
+9/5/2024,96104027,Bihun Kuah Ayam,30000,Bihun,2,60000,Online
+3/20/2024,96688655,Mie Goreng Ayam,32000,Mie,3,96000,Online
+9/16/2024,66420024,Jus Alpukat,15000,Minuman,5,75000,Online
+12/4/2024,60259293,Beef Yakiniku,42000,Daging,5,210000,Online
+11/1/2024,61335545,Ayam Katsu,38000,Daging,2,76000,Online
+4/2/2024,70201634,Air Mineral,7000,Minuman,2,14000,Dine-in
+1/23/2024,60666702,Ayam Katsu,38000,Daging,3,114000,Online
+8/15/2024,60418290,Air Mineral,7000,Minuman,3,21000,Dine-in
+4/29/2024,20770971,Jus Alpukat,15000,Minuman,2,30000,Dine-in
+8/28/2024,98824290,Bihun Kuah Ayam,30000,Bihun,3,90000,Dine-in
+8/24/2024,82383656,Chicken Teriyaki,40000,Daging,4,160000,Dine-in
+3/23/2024,27849589,Bihun Kuah Ayam,30000,Bihun,5,150000,Online
+5/8/2024,97715861,Nasi Goreng Spesial,35000,Nasi,4,140000,Dine-in
+10/10/2024,56676884,Mie Goreng Ayam,32000,Mie,5,160000,Online
+5/25/2024,25922674,Mie Goreng Ayam,32000,Mie,2,64000,Dine-in
+8/18/2024,33954324,Jus Alpukat,15000,Minuman,2,30000,Dine-in
+2/16/2024,82109613,Bihun Kuah Ayam,30000,Bihun,4,120000,Dine-in
+1/14/2024,62755436,Ayam Katsu,38000,Daging,1,38000,Dine-in
+9/14/2024,80980044,Beef Yakiniku,42000,Daging,2,84000,Dine-in
+2/11/2024,27092236,Beef Yakiniku,42000,Daging,2,84000,Online
+6/12/2024,39888974,Mie Goreng Ayam,32000,Mie,3,96000,Online
+3/11/2024,10466177,Nasi Goreng Spesial,35000,Nasi,3,105000,Dine-in
+12/22/2024,13051483,Kwetiau Goreng Seafood,36000,Kwetiau,4,144000,Dine-in
+11/11/2024,50045602,Nasi Goreng Spesial,35000,Nasi,1,35000,Online
+5/11/2024,72143331,Bihun Kuah Ayam,30000,Bihun,2,60000,Dine-in
+2/26/2024,83074216,Chicken Teriyaki,40000,Daging,2,80000,Dine-in
+3/3/2024,66925500,Nasi Goreng Spesial,35000,Nasi,2,70000,Dine-in
+11/23/2024,81394920,Air Mineral,7000,Minuman,4,28000,Online
+2/26/2024,60905625,Es Teh Manis,8000,Minuman,5,40000,Online
+11/19/2024,40824989,Jus Alpukat,15000,Minuman,5,75000,Online
+3/14/2024,43220503,Chicken Teriyaki,40000,Daging,4,160000,Online
+11/10/2024,71824078,Beef Yakiniku,42000,Daging,2,84000,Dine-in
+4/5/2024,56460773,Mie Goreng Ayam,32000,Mie,5,160000,Dine-in
+2/4/2024,30820038,Jus Alpukat,15000,Minuman,5,75000,Online
+7/18/2024,46997080,Es Teh Manis,8000,Minuman,1,8000,Dine-in
+7/10/2024,35297417,Chicken Teriyaki,40000,Daging,1,40000,Dine-in
+2/4/2024,25145751,Beef Yakiniku,42000,Daging,2,84000,Online
+10/24/2024,14324134,Beef Yakiniku,42000,Daging,2,84000,Online
+6/29/2024,98610233,Jus Alpukat,15000,Minuman,3,45000,Online
+12/16/2024,66269520,Es Teh Manis,8000,Minuman,4,32000,Online
+3/10/2024,92533595,Mie Goreng Ayam,32000,Mie,4,128000,Online
+5/30/2024,12099943,Bihun Kuah Ayam,30000,Bihun,1,30000,Online
+1/22/2024,42301683,Beef Yakiniku,42000,Daging,3,126000,Dine-in
+10/5/2024,37659807,Es Teh Manis,8000,Minuman,3,24000,Online
+11/27/2024,19031632,Bihun Kuah Ayam,30000,Bihun,3,90000,Dine-in
+1/25/2024,23542127,Beef Yakiniku,42000,Daging,3,126000,Online
+7/7/2024,89717834,Ayam Katsu,38000,Daging,4,152000,Dine-in
+7/16/2024,14506531,Beef Yakiniku,42000,Daging,2,84000,Dine-in
+12/20/2024,69920305,Es Teh Manis,8000,Minuman,3,24000,Dine-in
+2/12/2024,90233330,Ayam Katsu,38000,Daging,1,38000,Dine-in
+11/4/2024,16533225,Kwetiau Goreng Seafood,36000,Kwetiau,5,180000,Dine-in
+6/13/2024,42847661,Mie Goreng Ayam,32000,Mie,1,32000,Dine-in
+12/4/2024,15937353,Chicken Teriyaki,40000,Daging,3,120000,Dine-in
+11/4/2024,63991141,Ayam Katsu,38000,Daging,2,76000,Dine-in
+6/28/2024,68916591,Es Teh Manis,8000,Minuman,1,8000,Dine-in
+11/10/2024,41452485,Ayam Katsu,38000,Daging,3,114000,Online
+2/8/2024,82445335,Ayam Katsu,38000,Daging,3,114000,Online
+1/16/2024,39161379,Kwetiau Goreng Seafood,36000,Kwetiau,5,180000,Dine-in
+1/18/2024,17575790,Kwetiau Goreng Seafood,36000,Kwetiau,1,36000,Online
+11/26/2024,28808678,Beef Yakiniku,42000,Daging,3,126000,Dine-in
+10/17/2024,77631755,Nasi Goreng Spesial,35000,Nasi,5,175000,Online
+12/13/2024,48824283,Es Teh Manis,8000,Minuman,3,24000,Dine-in
+8/15/2024,41428626,Mie Goreng Ayam,32000,Mie,5,160000,Online
+9/28/2024,87324220,Beef Yakiniku,42000,Daging,4,168000,Dine-in
+11/28/2024,52802529,Chicken Teriyaki,40000,Daging,2,80000,Online
+1/14/2024,87507357,Kwetiau Goreng Seafood,36000,Kwetiau,4,144000,Dine-in
+10/14/2024,90251151,Mie Goreng Ayam,32000,Mie,3,96000,Dine-in
+12/26/2024,53038943,Es Teh Manis,8000,Minuman,2,16000,Dine-in
+12/21/2024,41796721,Es Teh Manis,8000,Minuman,2,16000,Online
+3/10/2024,50502136,Mie Goreng Ayam,32000,Mie,4,128000,Online
+12/31/2024,29228089,Es Teh Manis,8000,Minuman,1,8000,Dine-in
+12/7/2024,98612211,Beef Yakiniku,42000,Daging,1,42000,Dine-in
+6/2/2024,79961132,Kwetiau Goreng Seafood,36000,Kwetiau,2,72000,Dine-in
+9/17/2024,39667854,Bihun Kuah Ayam,30000,Bihun,1,30000,Online
+3/12/2024,65507111,Bihun Kuah Ayam,30000,Bihun,4,120000,Online
+7/3/2024,50332555,Jus Alpukat,15000,Minuman,5,75000,Dine-in
+8/27/2024,46930534,Jus Alpukat,15000,Minuman,2,30000,Online
+2/3/2024,18181595,Chicken Teriyaki,40000,Daging,4,160000,Dine-in
+9/26/2024,84721440,Ayam Katsu,38000,Daging,4,152000,Online
+3/5/2024,89412216,Beef Yakiniku,42000,Daging,1,42000,Dine-in
+8/26/2024,33505978,Jus Alpukat,15000,Minuman,3,45000,Online
+10/9/2024,94019376,Air Mineral,7000,Minuman,2,14000,Online
+8/9/2024,67337891,Jus Alpukat,15000,Minuman,1,15000,Online
+9/22/2024,84605013,Kwetiau Goreng Seafood,36000,Kwetiau,3,108000,Online
+3/23/2024,76521096,Beef Yakiniku,42000,Daging,2,84000,Dine-in
+9/22/2024,16292676,Chicken Teriyaki,40000,Daging,1,40000,Dine-in
+4/10/2024,56226575,Jus Alpukat,15000,Minuman,3,45000,Online
+11/16/2024,96344420,Chicken Teriyaki,40000,Daging,5,200000,Online
+9/14/2024,61157708,Kwetiau Goreng Seafood,36000,Kwetiau,5,180000,Online
+3/28/2024,80392240,Air Mineral,7000,Minuman,5,35000,Dine-in
+10/15/2024,52779814,Nasi Goreng Spesial,35000,Nasi,1,35000,Online
+1/24/2024,65878146,Air Mineral,7000,Minuman,3,21000,Online
+10/19/2024,64795619,Ayam Katsu,38000,Daging,5,190000,Online
+9/11/2024,30027648,Jus Alpukat,15000,Minuman,3,45000,Dine-in
+9/4/2024,50250352,Bihun Kuah Ayam,30000,Bihun,4,120000,Dine-in
+8/20/2024,60527631,Mie Goreng Ayam,32000,Mie,1,32000,Online
+8/13/2024,34679818,Ayam Katsu,38000,Daging,4,152000,Dine-in
+4/14/2024,82199509,Beef Yakiniku,42000,Daging,5,210000,Online
+6/9/2024,73554620,Beef Yakiniku,42000,Daging,3,126000,Dine-in
+3/7/2024,42342202,Beef Yakiniku,42000,Daging,5,210000,Online
+6/12/2024,40245233,Bihun Kuah Ayam,30000,Bihun,4,120000,Online
+5/16/2024,50364158,Es Teh Manis,8000,Minuman,2,16000,Online
